@@ -1,7 +1,7 @@
 /* STYLES FOR TO DO LIST PROJECT */
 body{
    height: 120vh;
-   background: url(/images/todo_list.jpg) no-repeat center center/cover;
+   background: url(/images/TODO-LIST.jpg) no-repeat center center/cover;
    display: flex;
    justify-content: center;
    align-items: center;
